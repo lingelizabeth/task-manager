@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "task-manager"
+    },
+    "task-manager": {
+      "applicationId": "91snUjPXaqfRY9JBetv3PeHbHZjt7JUyHBg9fvVu"
+    }
+  }
+}
